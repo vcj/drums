@@ -19,6 +19,8 @@ I love a good personal project, the less useful the better. Measuring sandwiches
 The abstract I submitted to the conference has some langauge about invisible maps. That's more or less accurate, but I really just started particular project because I couldn’t go to the studio where I take drum lessons and practice during pre-vaccine days of the pandemic, and I wanted to still make things with music even though I wasn’t really able to make music. This talk...you aren’t going to understand music in a different way or whatever. I just like to take information and make it do things it isn’t designed to do. And music information is a fun for for this, because it can go in so many different ways. 
 
 ### What's out there
+
+Obviously the first thing to do is see what already exists. 
 ---
 
 ### Category Name 2
