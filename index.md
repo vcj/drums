@@ -20,7 +20,10 @@ The abstract I submitted to the conference has some langauge about invisible map
 
 ### What's out there
 
-Obviously the first thing to do is see what already exists. 
+Obviously the first thing to do is see what else is out there, what already exists. What I found tended to fit into one of three categories:
+
+>1 Maps of Music
+
 ---
 
 ### Category Name 2
