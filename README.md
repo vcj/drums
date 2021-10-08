@@ -1,19 +1,24 @@
-## Developer Portfolio Landing Page Template
+## Percussion Cartography
+### NACIS 2021 - Oklahoma City (in spirit) - Music, Feelings, and Style session
 
-### Introduction
+---
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+### Land Acknowledgement
 
-<img src="images/demo.gif?raw=true"/>
+I am writing this from Washington DC, which occupies what was was and still is the ancestral lands of the Nacotchtank (or Anacostan) and Piscataway people. Corn, beans, and squash once grew on Capitol Hill. Pottery has been unearthed on the site of what is now the White House, and burial mounds have been uncovered at Joint Base Anacostia-Bolling. Today there are roughly 4,000 Indiginous citizens of the District of Columbia, representing not only local tribal communities but also ones from all across the Americas. 
 
-### Installation
+To learn more about the Nacotchtank and learn about efforts to gain recognition for the Nacotchtank history of the area, please visit the DC Native History Project at onceasitwasdc.org. 
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### HELLO
+
+I love a good personal project, the less useful the better. Measuring sandwiches, and mapping newspaper football coverage, it’s a wonderful waste of time. 
+
+The abstract I submitted to the conference has some langauge about invisible maps. That's more or less accurate, but I really just started particular project because I couldn’t go to the studio where I take drum lessons and practice during pre-vaccine days of the pandemic, and I wanted to still make things with music even though I wasn’t really able to make music. This talk...you aren’t going to understand music in a different way or whatever. I just like to take information and make it do things it isn’t designed to do. And music information is a fun for for this, because it can go in so many different ways. 
+
+### What's out there
 
 ### Markdown
 
