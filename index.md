@@ -45,7 +45,13 @@ And I bring that up now while  you are looking at Past NACIS president Anthony R
 
 [7DC kit]
 
-This is the kit I play on most often and the basis for I think all rest of the visuals. No frills, just the basics. 
+This is the kit in the turquoise practice room at 7DrumCity, the kit I play on most often and the basis for the next few visuals. 
+
+As for the data itself: I worked from written sheet music. If you can read regular sheet music, awesome! Throw it all out, because drum sheet music is different. There isn’t a scale, really. No chords, no octaves, the note placement just refers to the different drums. So here’s a little diagram of that. 
+
+After some consideration I realized that the best way to make use of my short time with you all, with as little time explaining non-cartography topics as possible was to focus on one piece of classic , widely beloved, well known music with a memorable drum pattern
+
+
 
 
 
