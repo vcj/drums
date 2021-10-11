@@ -28,6 +28,30 @@ Obviously the first thing to do is see what else is out there, what already exis
 >2 Maps of Music "Networks":
 
 >3 Maps Inspired by Music: Like Travis White’s Cartographic Pleasures: Maps Inspired by Joy Division’s Unknown Pleasures Album Art,
+
+It's sort of difficult to find maps of the music itself. If I had to guess why, I'd say that it's because music is something you hear, and it’s difficult to conceive of something so ephemeral as having a fixed location. You can map the origin, or how it relates to similar sounds, you can apply aspects of it to the physical earth, but what about mapping the sound itself? Maps are typically - not always, of course, please note Harrison Cole's talk later this session - but often visual aids. What do you see, what do you picture, when you listen to, or make, music? How can you visualize the experience of music? How can you map that? 
+
+### Turning Music into Data ("Data")
+
+I started logging music notes as data points during a session of Creative Carto last year. I didn't do anything with it, initially, until the 30 Day Map Challenge. The 30 Day Map Challenge is an absolutely unmatched opportunity to dive into your folder of halfbaked ideas and just let 'er rip. 
+
+This non-map map just shows  how often each part of the kit is played during a given song - in this case, First Date, by blink-182.
+
+[AR kit]
+
+There is inherent spatiality to drumming. I think there are actually a fair amount of drummers in NACIS! I have done no research on the topic but I’d wager that there’s some solid overlap in cartographers and drummers.
+
+And I bring that up now while  you are looking at Past NACIS president Anthony Robinson’s setup.  I show you this just because there are a lot of different ways to build a kit, including, like, endless cymbals, but for the purposes of this talk, we’re going to just go with the basics. So, to set the area that we will be mapping. 
+
+[7DC kit]
+
+This is the kit I play on most often and the basis for I think all rest of the visuals. No frills, just the basics. 
+
+
+
+
+
+
 ---
 
 ### Category Name 2
