@@ -8,7 +8,7 @@
   <summary>Washington, DC is the ancestral territory of the Nacotchtank (Anacostan) and Piscataway peoples.</summary> 
 I am writing this from Washington DC, which occupies what was was and still is the ancestral lands of the Nacotchtank (or Anacostan) and Piscataway people. Corn, beans, and squash once grew on Capitol Hill. Pottery has been unearthed on the site of what is now the White House, and burial mounds have been uncovered at Joint Base Anacostia-Bolling. Today there are roughly 4,000 Indiginous citizens of the District of Columbia, representing not only local tribal communities but also ones from all across the Americas. 
 
-To learn more about the Nacotchtank and learn about efforts to gain recognition for the Nacotchtank history of the area, please visit the DC Native History Project at onceasitwasdc.org. 
+To learn more about the Nacotchtank and learn about efforts to gain recognition for the Nacotchtank history of the area, please visit the DC Native History Project at <a href="http://onceasitwasdc.org/">onceasitwasdc.org</a>. 
 </details>
 
 ---
@@ -44,9 +44,9 @@ This non-map map just shows  how often each part of the kit is played during a g
 
 There is inherent spatiality to drumming. I think there are actually a fair amount of drummers in NACIS! I have done no research on the topic but I’d wager that there’s some solid overlap in cartographers and drummers.
 
-Past NACIS president Anthony Robinson is a drummer, too. This is his kit!
+Past NACIS president <a href="https://twitter.com/A_C_Robinson">Anthony Robinson</a> is a drummer, too. This is his kit!
 
-<img src="images/arkit.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/arkit.jpg', '_blank');" />
+<img src="images/arkit.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/arkit.JPG', '_blank');" />
 
 I show you this not just to gawk at that incredible giant china cymbal but just because there are a lot of different ways to build a kit. For the purposes of this talk, we’re going to just go with the basics. So, to set the area that we will be mapping. This is the kit in the turquoise practice room at 7DrumCity, the kit I play on most often and the basis for the next few visuals. 
 
@@ -131,8 +131,7 @@ I was putting together this talk at the same time as I was reading Jer Thorp’s
 
 Which took me back to R, to get the base lines (pun intended of course, though I think that joke worked better - if at all - said out loud). A little arithmetic gave me the number of hits per drum per section:
 
-
-<img src="images/dotplot.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/dotplot.jpg', '_blank');" />
+<img src="images/dotplot.png?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/dotplot.png', '_blank');" />
 
 and I used that to make this weird little map!
 
@@ -141,14 +140,13 @@ and I used that to make this weird little map!
 Here, the height represents the frequency, while the width and general shape represents beat distribution. The color doesn’t mean anything except to separate the parts of the kit, I just like bright colors. I'm not totally sure about this one, sometimes I think it looks really cool and sometimes I think it looks like third rate Tufte. But it’s a fair representation of what going on in my head when I’m playing and listening to the song, a map of the linear progression through the piece with elevation (or depth) assigned by frequency. 
 
 ### Rendering with the Frenemy
-These are not the only ways I've tried to visualize drum patterns. I'll spare you most of the wrecks, but I do want to share this little friend here.
+These are not the only ways I've tried to visualize drum patterns. I'll spare you most of the wrecks, but I do want to share this little guy here.
 
 Made in AerialOD, I was trying to show 3D terrain based on frequency and it looks like I sat on some dixie cups! Reader, I laughed out loud when this rendered. 
 
-<img src="images/mistake.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/mistake.jpg', '_blank');" /> 
+<img src="images/mistake.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/mistake.JPG', '_blank');" /> 
 
-
-So there you have it, a handful of different ways to make cartography out of percussion! If you have any questions and the conference isn't literally going on right now, feel free to tweet them @hurricanevicky. 
+So there you have it, a handful of different ways to make cartography out of percussion! If you have any questions and the conference isn't literally going on right now, feel free to tweet them <a href="https://twitter.com/hurricanevicky">@hurricanevicky</a>. 
 
 ### BYE
 
