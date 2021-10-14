@@ -43,13 +43,11 @@ This non-map map just shows how often each part of the kit is played during a gi
 
 <img src="images/drum-nonmap.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/drum-nonmap.jpg', '_blank');" />
 
-There is inherent spatiality to drumming. I think there are actually a fair amount of drummers in NACIS! I have done no research on the topic but I’d wager that there’s some solid overlap in cartographers and drummers.
-
-Past NACIS president <a href="https://twitter.com/A_C_Robinson">Anthony Robinson</a> is a drummer, too. This is his kit!
+There is inherent spatiality to drumming. I think there are actually a fair amount of drummers in NACIS! I have done no research on the topic but I’d wager that there’s some solid overlap in cartographers and drummers. For instance, past NACIS president <a href="https://twitter.com/A_C_Robinson">Anthony Robinson</a> is a drummer, too. This is his kit!
 
 <img src="images/arkit.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/arkit.JPG', '_blank');" />
 
-I show you this not just to gawk at that incredible giant china cymbal but just because there are a lot of different ways to build a kit. For the purposes of this talk, we’re going to just go with the basics. So, to set the area that we will be mapping. This is the kit in the turquoise practice room at 7DrumCity, the kit I play on most often and the basis for the next few visuals. 
+I show you this not just to gawk at that incredible giant cymbal but just because there are a lot of different ways to build a kit. For the purposes of this talk, we’re going to just go with the basics. So, to set the area that we will be mapping. This is the kit in the turquoise practice room at 7DrumCity, the kit I play on most often and the basis for the next few visuals. 
 
 <img src="images/drumkit2.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/drumkit2.jpg', '_blank');" />
 
