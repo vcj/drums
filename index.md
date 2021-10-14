@@ -56,9 +56,9 @@ As for the data itself: I worked from written sheet music. If you can read regul
 
 <img src="images/drumkit2_noted.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/drumkit2_noted.jpg', '_blank');" />
 
-After some consideration I realized that the best way to make use of my short time with you all, with as little time explaining non-cartography topics as possible was to focus on one piece of classic, widely beloved, well known music with a memorable drum pattern: Kelly Clarkson's Since U Been Gone. 
+After some consideration I realized that the best way to make use of my short time with you all, with as little time explaining non-cartography topics as possible was to focus on one piece of classic, widely beloved, well known music with a memorable drum pattern: the 2004 Kelly Clarkson banger Since U Been Gone. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R7UrFYvl5TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Since U Been Gone](https://img.youtube.com/vi/R7UrFYvl5TE/default.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Since U Been Gone")
 
 I started by sketching out the drum kit and assigning coordinates to each drum. Then I went through the written sheet music and tracked whether the drum was struck by the stick in my right or left hand, or right foot in the case of the kick drum pedal. 
 
