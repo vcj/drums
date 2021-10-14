@@ -17,7 +17,7 @@ To learn more about the Nacotchtank and about efforts to gain recognition for th
 
 I love a good personal project, the less useful the better. Measuring sandwiches, <a href="https://vcj.github.io/2020bn/" target="_blank">mapping newspaper football coverage</a>, I am happiest when I am wasting my own time.
 
-The abstract I submitted to the conference has some langauge about invisible maps. That's more or less accurate, but I really just started particular project because I couldn’t go to the studio where I take drum lessons and practice during pre-vaccine days of the pandemic, and I wanted to still make things with music even though I wasn’t really able to make music. This talk...you aren’t going to understand music in a different way or whatever. I just like to take information and make it do things it isn’t designed to do. And music information is extra fun for this, because it can go in so many different ways. 
+The abstract I submitted to the conference has some langauge about invisible maps. That's more or less accurate, but I really just started this particular project because I couldn’t go to the studio where I take drum lessons and practice during pre-vaccine days of the pandemic, and I wanted to still make things with music even though I wasn’t really able to make music. This talk...you aren’t going to understand music in a different way or whatever. I just like to take information and make it do things it isn’t designed to do. And music information is extra fun for this, because it can go in so many different ways. 
 
 ### What's out there?
 
