@@ -117,7 +117,7 @@ Like I was saying about nonsensical - I feel most cross-section style visuals wi
 
 This is the North American Cartographic Information Society, lets take a closer look at that North American Cartographic Information. 
 
-<img src="images/closer.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/closer.jpg', '_blank');" />
+<img src="images/closer.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/closer.JPG', '_blank');" />
 
 I was just so taken by the unusual juxtaposition of these features, where the point is not to show you how it is but to show you how it relates to everything else, and I felt a similar approach would serve me well here.
 
