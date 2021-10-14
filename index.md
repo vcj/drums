@@ -87,7 +87,7 @@ For example!!! This is a Pan Am airline map from 1978 with a bit of simple anima
 
 <img src="images/panam.gif?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/panam.gif', '_blank');" />
 
-I did not crop out the grid here - in fact, it's easier to show you what I did with just a screenshot of RStudio. The file panam9.csv contains the three points that were connected by the geom_line, and the geom_points are the larger dots (being connected by the line). You'll also notice that there is a point at 0,0 and one at 10,10: this stabilized the image as I engaged in the trial and error to place dots on San Francisco, Honolulu, and Sydney. It was much easier once I added those stabilization dots. How many tries did it take before I added the dots? Well....here's a hint, check the csv file name. 
+I did not crop out the grid here - in fact, it's easier to show you what I did with just a screenshot of RStudio. The file panam9.csv contains the three points that were connected by the geom_line, and the geom_points are the larger dots (being connected by the line). You'll also notice that there is a point at 0,0 and one at 10,10: this stabilized the image as I engaged in the trial and error to place dots on San Francisco, Honolulu, and Sydney. It was much easier once I added those stabilization dots. How many tries did it take before I figured that out? Well....here's a hint, check the csv file name. 
 
 <img src="images/rback.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/rback.jpg', '_blank');" />
 (clicking the image will open it bigger in a new tab)
