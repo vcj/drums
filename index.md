@@ -23,14 +23,14 @@ The abstract I submitted to the conference has some langauge about invisible map
 
 Obviously the first thing to do is see what else is out there, what already exists. What I found tended to fit into one of three categories:
 
->1 Maps of Where Music Is: Maps of where to find certain types of music, like this one published by Standard Oil in 1949 as part of their weekly educational radio program to promote music appreciation in children.
+1 Maps of Where Music Is: Maps of where to find certain types of music, like this one published by Standard Oil in 1949 as part of their weekly educational radio program to promote music appreciation in children.
 ><img src="images/musicmap1.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/musicmap1.jpg', '_blank');" />
 
->2 Maps of Music "Networks": Non-geographic maps, like mind maps, that connect artists of similar genres, like the one at music-map.com.
-><img src="images/musicweb.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/musicweb.JPG', '_blank');" />
+2 Maps of Music "Networks": Non-geographic maps, like mind maps, that connect artists of similar genres, like the one at music-map.com.
+<img src="images/musicweb.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/musicweb.JPG', '_blank');" />
 
->3 Maps Inspired by Music: Like Travis White’s Cartographic Pleasures: Maps Inspired by Joy Division’s Unknown Pleasures Album Art, these maps take inspiration from some aspect of music.
-><img src="images/CartoPleasures.png?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/CartoPleasures.png', '_blank');" />
+3 Maps Inspired by Music: Like <a href ="https://cartographicperspectives.org/index.php/journal/article/view/1536">Travis White’s Cartographic Pleasures: Maps Inspired by Joy Division’s Unknown Pleasures Album Art</a>, these maps take inspiration from some aspect of music.
+<img src="images/CartoPleasures.png?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/CartoPleasures.png', '_blank');" />
 
 It's sort of difficult to find maps of the music itself. If I had to guess why, I'd say that it's because music is something you hear, and it’s difficult to conceive of something so ephemeral as having a fixed location. You can map the origin, or how it relates to similar sounds, you can apply aspects of it to the physical earth, but what about mapping the sound itself? Maps are typically - not always, of course, please note Harrison Cole's talk later this session - but often visual aids. What do you see, what do you picture, when you listen to, or make, music? How can you visualize the experience of music? How can you map that? 
 
