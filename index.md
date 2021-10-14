@@ -26,7 +26,7 @@ Obviously the first thing to do is see what else is out there, what already exis
 1 Maps of Where Music Is: Maps of where to find certain types of music, like this one <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~290328~90061892:Standard-School-Broadcast--Pictoria">published by Standard Oil in 1949</a> as part of their weekly educational radio program to promote music appreciation in children.
 ><img src="images/musicmap1.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/musicmap1.jpg', '_blank');" />
 
-2 Maps of Music "Networks": Non-geographic maps, like mind maps, that connect artists of similar genres, like the one at <a href="https://www.music-map.com/">music-map.com</a>.
+2 Maps of Music "Networks": Non-geographic maps that connect artists of similar genres, like the one at <a href="https://www.music-map.com/">music-map.com</a>.
 <img src="images/musicweb.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/musicweb.JPG', '_blank');" />
 
 3 Maps Inspired by Music: Like <a href ="https://cartographicperspectives.org/index.php/journal/article/view/1536">Travis White’s Cartographic Pleasures: Maps Inspired by Joy Division’s Unknown Pleasures Album Art</a>, these maps take inspiration from some aspect of music.
