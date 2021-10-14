@@ -82,7 +82,7 @@ This might be something everyone already knows and does all the time but it was 
 1. add the packages ggplot2, gganimate, png, and grid
 2. bring in the map you want to use as the background 
 3. note the x and y coordinates of where you want the line to go, and use them to plot your animated line!
-4. 
+ 
 There's a lot of a little trial and error in getting the coordinates where you want them, I wouldn’t want to do that for something with too many points, but it’s a neat way of working with cartography you can’t or don’t want to try to do in R - just work on top of your map! 
 
 For example!!! This is a <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~289720~90061415:Pan-Am--Route-of-the-Clipper-Jets">Pan Am airline map from 1978</a> with a bit of simple animation (sure, you could do this in InDesign, but R is free).
