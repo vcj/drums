@@ -17,13 +17,13 @@ To learn more about the Nacotchtank and learn about efforts to gain recognition 
 
 I love a good personal project, the less useful the better. Measuring sandwiches, <a href="https://vcj.github.io/2020bn/" target="_blank">mapping newspaper football coverage</a>, I am happiest when I am wasting my own time.
 
-The abstract I submitted to the conference has some langauge about invisible maps. That's more or less accurate, but I really just started particular project because I couldn’t go to the studio where I take drum lessons and practice during pre-vaccine days of the pandemic, and I wanted to still make things with music even though I wasn’t really able to make music. This talk...you aren’t going to understand music in a different way or whatever. I just like to take information and make it do things it isn’t designed to do. And music information is extra fun for for this, because it can go in so many different ways. 
+The abstract I submitted to the conference has some langauge about invisible maps. That's more or less accurate, but I really just started particular project because I couldn’t go to the studio where I take drum lessons and practice during pre-vaccine days of the pandemic, and I wanted to still make things with music even though I wasn’t really able to make music. This talk...you aren’t going to understand music in a different way or whatever. I just like to take information and make it do things it isn’t designed to do. And music information is extra fun for this, because it can go in so many different ways. 
 
 ### What's out there?
 
 Obviously the first thing to do is see what else is out there, what already exists. What I found tended to fit into one of three categories:
 
-1 Maps of Where Music Is: Maps of where to find certain types of music, like this one published by Standard Oil in 1949 as part of their weekly educational radio program to promote music appreciation in children.
+1 Maps of Where Music Is: Maps of where to find certain types of music, like this one <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~290328~90061892:Standard-School-Broadcast--Pictoria">published by Standard Oil in 1949</a> as part of their weekly educational radio program to promote music appreciation in children.
 ><img src="images/musicmap1.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/musicmap1.jpg', '_blank');" />
 
 2 Maps of Music "Networks": Non-geographic maps, like mind maps, that connect artists of similar genres, like the one at music-map.com.
