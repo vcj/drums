@@ -24,7 +24,8 @@ The abstract I submitted to the conference has some langauge about invisible map
 Obviously the first thing to do is see what else is out there, what already exists. What I found tended to fit into one of three categories:
 
 1 Maps of Where Music Is: Maps of where to find certain types of music, like this one <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~290328~90061892:Standard-School-Broadcast--Pictoria">published by Standard Oil in 1949</a> as part of their weekly educational radio program to promote music appreciation in children.
-><img src="images/musicmap1.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/musicmap1.jpg', '_blank');" />
+<img src="images/musicmap1.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/musicmap1.jpg', '_blank');" />
+(Note: clicking all images will open them larger in a new tab)
 
 2 Maps of Music "Networks": Non-geographic maps that connect artists of similar genres, like the one at <a href="https://www.music-map.com/">music-map.com</a>.
 <img src="images/musicweb.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/musicweb.JPG', '_blank');" />
