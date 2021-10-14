@@ -43,7 +43,7 @@ This non-map map just shows how often each part of the kit is played during a gi
 
 <img src="images/drum-nonmap.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/drum-nonmap.jpg', '_blank');" />
 
-There is inherent spatiality to drumming. I think there are actually a fair amount of drummers in NACIS! I have done no research on the topic but I’d wager that there’s some solid overlap in cartographers and drummers. For instance, past NACIS president <a href="https://twitter.com/A_C_Robinson">Anthony Robinson</a> is a drummer, too. This is his kit!
+There is inherent spatiality to drumming. I think there are actually a fair amount of drummers in NACIS! I have done no research on the topic but I’d wager that there’s some solid overlap in cartographers and drummers. For instance, past NACIS president <a href="https://twitter.com/A_C_Robinson">Anthony Robinson</a> is a drummer. This is his kit!
 
 <img src="images/arkit.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/arkit.JPG', '_blank');" />
 
@@ -75,23 +75,28 @@ This is what that looks like animated, with a couple other features as well. Col
 
 ### Break for Practical Cartography!!!
 
-This might be something everyone already knows and does all the time but it was new to me and I was just delighted with it. So if this is new to you too, it’s actually pretty  easy to take an existing map and create an animation over it
+This might be something everyone already knows and does all the time but it was new to me and I was just delighted with it. So if this is new to you too, it’s actually pretty  easy to take an existing map and create an animation over it. Here's how:
 
-Take an image in png format - put it into R, there’s a package for that (it's called, as you might expect, png), add a grid (the package for that is...grid), note the x and y coordinates, and use that to plot your animation with ggplot and gganimate. I'm glossing over a lot of a little trial and error in getting the coordinates where you want them, I wouldn’t want to do that for something with too many points, but it’s a neat way of working with cartography you can’t or don’t want to try to do in R. 
+1. add the packages ggplot2, gganimate, png, and grid
+2. bring in the map you want to use as the background 
+3. note the x and y coordinates of where you want the line to go, and use them to plot your animated line!
+4. 
+There's a lot of a little trial and error in getting the coordinates where you want them, I wouldn’t want to do that for something with too many points, but it’s a neat way of working with cartography you can’t or don’t want to try to do in R - just work on top of your map! 
 
-For example!!! This is a Pan Am airline map from 1978 with a bit of simple animation. Sure, you could do this in InDesign, but R is free.
+For example!!! This is a Pan Am airline map from 1978 with a bit of simple animation (sure, you could do this in InDesign, but R is free).
 
 <img src="images/panam.gif?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/panam.gif', '_blank');" />
 
-I did not crop out the grid here - in fact, its easier to show you what I did with just a screenshot of RStudio. The file panam9.csv contains the three points that were connected by the geom_line, and the geom_points are the larger dots (being connected by the line). You'll also notice that there is a point at 0,0 and one at 10,10: this stabilized the image as I engaged in the trial and error to place dots on San Francisco, Honolulu, and Sydney. It was much easier once I added those stabilization dots. How many tries did it take before I added the dots? Well....here's a hint, check the csv file name. 
+I did not crop out the grid here - in fact, it's easier to show you what I did with just a screenshot of RStudio. The file panam9.csv contains the three points that were connected by the geom_line, and the geom_points are the larger dots (being connected by the line). You'll also notice that there is a point at 0,0 and one at 10,10: this stabilized the image as I engaged in the trial and error to place dots on San Francisco, Honolulu, and Sydney. It was much easier once I added those stabilization dots. How many tries did it take before I added the dots? Well....here's a hint, check the csv file name. 
 
 <img src="images/rback.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/rback.jpg', '_blank');" />
+(clicking the image will open it bigger in a new tab)
 
-Anyway. This is what my left and right hands are doing when I play Since U Been Gone. It’s a mega-micro route map, showing how I am navigating the setup. If these were real, on-the-ground coordinates we’d need like 7 or 8 decimal places. And sure, there’s no north arrow, but as we all know north is a societal construct. 
+Anyway. The drum animation is showing what my left and right hands are doing when I play Since U Been Gone. It’s a mega-micro route map, showing how I navigate the setup. If these were real, on-the-ground coordinates we’d need like 7 or 8 decimal places. And sure, there’s no north arrow, but as we all know north is a societal construct. 
 
 A given piece of music, a song, to me, is fairly linear. It has a start, it has an end, there’s a progress of things that happen in between. That stuff in between? That all has, if we don’t want to approach this so literally with a route map, we can take another angle, we can assign everything weight based on frequency, tone, beat… any aspect, really, anything can be visualized. 
 
-Earlier I posed a question about what you see when you hear or make music. I don't know what you see, but for me, there are highs and lows. And I don’t mean emotionally, though there are those too, I mean, say, if there’s a lot of bass drum, that suggests a deeper tone. A lot of hihat, that’s higher in tone. The more I hit a particular drum or cymbal, the bigger that is. If that makes sense. It might not! 
+Earlier I posed a question about what you see when you hear or make music. I don't know what you see, but for me, there are highs and lows. And I don’t mean emotionally, though there are those too, I mean, say, if there’s a lot of bass drum, that suggests a deeper tone. A lot of hi-hat, that’s higher in tone. The more I hit a particular drum or cymbal, the bigger that is. If that makes sense. It might not! 
 
 ### Welcome to German Terrain Hell
 
