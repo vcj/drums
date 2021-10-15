@@ -94,11 +94,11 @@ I did not crop out the grid here - in fact, it's easier to show you what I did w
 <img src="images/rback.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/rback.jpg', '_blank');" />
 (clicking the image will open it bigger in a new tab)
 
-Anyway. The drum animation is showing what my left and right hands are doing when I play Since U Been Gone. It’s a mega-micro route map, showing how I navigate the setup. If these were real, on-the-ground coordinates we’d need like 7 or 8 decimal places. And sure, there’s no north arrow, but as we all know north is a societal construct. 
+Anyway. The drum animation is showing what my left and right hands are doing when I play Since U Been Gone. It’s a mega-micro route map, showing how I navigate the setup. If these were real, on-the-ground coordinates we’d need like 7 or 8 decimal places. And sure, there’s no north arrow, but as we all know <a href="https://www.youtube.com/watch?v=55ka3-gr_NA">north is a societal construct</a>. 
 
 A given piece of music, a song, to me, is fairly linear. It has a start, it has an end, there’s a progress of things that happen in between. That stuff in between? That all has, if we don’t want to approach this so literally with a route map, we can take another angle, we can assign everything weight based on frequency, tone, beat… any aspect, really, anything can be visualized. 
 
-Earlier I posed a question about what you see when you hear or make music. I don't know what you see, but for me, there are highs and lows. And I don’t mean emotionally, though there are those too, I mean, say, if there’s a lot of bass drum, that suggests a deeper tone. A lot of hi-hat, that’s higher in tone. The more I hit a particular drum or cymbal, the bigger that is. If that makes sense. It might not! 
+Earlier I posed a question about what you see when you hear or make music. I don't know what you see, but for me, there are highs and lows. And I don’t mean emotionally, though there are those too, I mean, say, if there’s a lot of bass drum, that suggests a deeper tone. A lot of hi-hator crash, that’s higher in tone. The more I hit a particular drum or cymbal, the bigger that is. If that makes sense (it might not!). 
 
 ### Welcome to German Terrain Hell
 
