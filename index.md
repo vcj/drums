@@ -11,7 +11,7 @@ I am writing this from Washington DC, which occupies what was and still is the a
 <br>
 To learn more about the Nacotchtank and about efforts to gain recognition for the Nacotchtank history of the area, please visit the DC Native History Project at <a href="http://onceasitwasdc.org/">onceasitwasdc.org</a>. 
 </details>
-<br>
+
 
 ---
 
