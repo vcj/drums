@@ -12,12 +12,12 @@ I am writing this from Washington DC, which occupies what was and still is the a
 To learn more about the Nacotchtank and about efforts to gain recognition for the Nacotchtank history of the area, please visit the DC Native History Project at <a href="http://onceasitwasdc.org/">onceasitwasdc.org</a>. 
  <br>
 </details>
-
+<br>
 ---
 
 ### HELLO
 
-I love a good personal project, the less useful the better. Measuring sandwiches, <a href="https://vcj.github.io/2020bn/" target="_blank">mapping newspaper football coverage</a>, I am happiest when I am wasting my own time.
+I love a good personal project, the less useful the better. <a href="https://www.youtube.com/watch?v=j4y-LXyTfF8">Measuring sandwiches</a>, <a href="https://vcj.github.io/2020bn/" target="_blank">mapping newspaper football coverage</a>, I am happiest when I am wasting my own time.
 
 The abstract I submitted to the conference has some langauge about invisible maps. That's more or less accurate, but I really just started this particular project because I couldn’t go to the studio where I take drum lessons and practice during pre-vaccine days of the pandemic, and I wanted to still make things with music even though I wasn’t really able to make music. This talk...you aren’t going to understand music in a different way or whatever. I just like to take information and make it do things it isn’t designed to do. And music information is extra fun for this, because it can go in so many different ways. 
 
@@ -53,7 +53,7 @@ I show you this not just to gawk at that incredible giant cymbal but just becaus
 
 <img src="images/drumkit2.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/drumkit2.jpg', '_blank');" />
 
-As for the data itself: I worked from written sheet music. If you can read regular sheet music, awesome! Throw it all out, because drum sheet music is different. There isn’t a scale, really. No chords, no octaves, the note placement just refers to the different drums. Like so:  
+As for the data itself: I worked from written sheet music. If you can read regular sheet music, awesome! Good for you. Throw it all out, because drum sheet music is different. There isn’t a scale, really. No chords, no octaves, the note placement just refers to the different drums. Like so:  
 
 <img src="images/drumkit2_noted.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/drumkit2_noted.jpg', '_blank');" />
 
