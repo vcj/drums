@@ -98,7 +98,7 @@ Anyway. The drum animation is showing what my left and right hands are doing whe
 
 A given piece of music, a song, to me, is fairly linear. It has a start, it has an end, there’s a progress of things that happen in between. That stuff in between? That all has, if we don’t want to approach this so literally with a route map, we can take another angle, we can assign everything weight based on frequency, tone, beat… any aspect, really, anything can be visualized. 
 
-Earlier I posed a question about what you see when you hear or make music. I don't know what you see, but for me, there are highs and lows. And I don’t mean emotionally, though there are those too, I mean, say, if there’s a lot of bass drum, that suggests a deeper tone. A lot of hi-hator crash, that’s higher in tone. The more I hit a particular drum or cymbal, the bigger that is. If that makes sense (it might not!). 
+Earlier I posed a question about what you see when you hear or make music. I don't know what you see, but for me, there are highs and lows. And I don’t mean emotionally, though there are those too, I mean, say, if there’s a lot of bass drum, that suggests a deeper tone. A lot of hi-hat or crash, that’s higher in tone. The more I hit a particular drum or cymbal, the bigger that is. If that makes sense (it might not!). 
 
 ### Welcome to German Terrain Hell
 
@@ -106,18 +106,18 @@ This is a cartography talk, though, so lets talk about cartography.
 
 <img src="images/cartopl2.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/cartopl2.jpg', '_blank');" />
 
-Popping back to Travis White’s transect maps for a moment, I’ve always liked this sketch included in Cartographic Perspectives, in particular the elevation transect at the bottom. It conveys a very nice, very clear, line from one end of crater lake to the other. 
+Popping back to Travis White’s transect maps for a moment, I’ve always liked this sketch included in Cartographic Perspectives, in particular the elevation transect at the bottom. It conveys a very nice, very clear, line from one end of Crater Lake to the other. 
 
 <img src="images/germanterrainchaos.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/germanterrainchaos.jpg', '_blank');" />
  
 But sometimes that through line isn’t so nice and clear. Sometimes it’s messy and jumbled and there are a lot of them all working from the same baseline, it can get a little nonsensical. Like this page from the <a href="https://www.davidrumsey.com/luna/servlet/view/search?search=SUBMIT&cat=0&q=pub_list_no%3D%2212189.000%22&dateRangeStart=&dateRangeEnd=&sort=pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no&QuickSearchA=QuickSearchA">
 “Handatlas der Allgemeinen Erdkunde, Laender und Staatenkunde, In achtzig Karten,”</a> or Hand atlas of General Geography, Country and National Studies, in 80 maps, by Georg Leonhart Bauerkeller and Ludwig Ewald, that I found while browsing the David Rumsey Map Collection. And you’ve always got to read the publication notes there, because they cut right to the heart of it.
 
-“Considered by authorities to be one of the most beautiful atlases of the 19th century, it is particularly noteworthy for its quality registration, sharp images, use of brown for relief and solid blue for water, multi-color lithography, and it's scope of content. Particularly noteworthy presentations being: maps, diagrams and illustrations of glaciers in the Alps, an elevation diagram of major mountains and sea depths,a  map of Switzerland with relief depicted with hachures and giving a shaded relief 3-D effect. Most of the text planned to accompany the maps was never completed. 
+“Considered by authorities to be one of the most beautiful atlases of the 19th century, it is particularly noteworthy for its quality registration, sharp images, use of brown for relief and solid blue for water, multi-color lithography, and it's scope of content. Particularly noteworthy presentations being: maps, diagrams and illustrations of glaciers in the Alps, an elevation diagram of major mountains and sea depths,a  map of Switzerland with relief depicted with hachures and giving a shaded relief 3-D effect. Most of the text planned to accompany the maps was never completed. The atlas was largely ignored by contemporary and subsequent scholars despite its high quality.”
 
-The atlas was largely ignored by contemporary and subsequent scholars despite its high quality.”
+I guess using blue for water had to be noteworthy at some point?
 
-I guess using blue for water had to be noteworthy at some point? This chaotic imaginary landmass of every tall mountain on the earth is great, but let’s take a look at another of the beautiful but ignored elevation diagrams. 
+This chaotic imaginary landmass of every tall mountain on the earth is great, but let’s take a look at another of the beautiful but ignored elevation diagrams. 
 
 <img src="images/sideview.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/drums/master/images/sideview.jpg', '_blank');" />
 
